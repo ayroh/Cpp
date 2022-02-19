@@ -1,5 +1,5 @@
 # My C++ Projects for CSE241 Lecture
-# All Homeworks Contains Game [HEX Wikipedia](https://en.wikipedia.org/wiki/Hex_(board_game))
+# All Projects Contains Game [HEX Wikipedia](https://en.wikipedia.org/wiki/Hex_(board_game))
 
 &emsp;&emsp;PROJECT 1
 
